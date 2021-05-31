@@ -1,0 +1,20 @@
+#all{
+    width: 600px;
+    height: 600px;
+}
+.dong {
+    width: 600px;
+    height: 200px;
+}
+.xam {
+    width: 200px;
+    height: 200px;
+    background: grey;
+    float: left;
+}
+.trang {
+    width: 200px;
+    height: 200px;
+    background:white;
+    float: left;
+}

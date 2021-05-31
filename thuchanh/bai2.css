@@ -1,0 +1,42 @@
+#all {
+    width: 500px;
+    height: 200px;
+}
+#dong {
+    width: 500px;
+    height: 100px;
+}
+#red {
+    width: 100px;
+    height: 100px;
+    background: red;
+    float: left;
+}
+#yellow {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    float: left;
+    margin-left: 100px;
+}
+#green {
+    width: 100px;
+    height: 100px;
+    background: green;
+    float: left;
+    margin-left: 100px;
+}
+#blue {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    float: left;
+    margin-left: 100px;
+}
+#violet {
+    width: 100px;
+    height: 100px;
+    background: #6b056b;
+    float: left;
+    margin-left: 100px;
+}
