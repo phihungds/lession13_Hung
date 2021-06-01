@@ -1,0 +1,69 @@
+#all{
+    width: 100%;
+    height: 100%;
+}
+#head{
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+#body{
+    width: 90%;
+    height:1000px;
+    background: #aaa7a7;
+    margin: auto;
+}
+#bigblue{
+    width: 70%;
+    height: 400px;
+    background: blue;
+    float: left;
+}
+#green1 {
+    width: auto;
+    height: 250px;
+    background: green;
+}
+#yellow {
+    width: auto;
+    height: 150px;
+    background: yellow;
+}
+#green2 {
+    width: 45%;
+    height: 300px;
+    background: green;
+    float: left;
+}
+#red {
+    width: 25%;
+    height: 350px;
+    background: red;
+    float: left;
+}
+#orange1 {
+    width: 30%;
+    height: 150px;
+    background: orange;
+    float: left;
+}
+#green3 {
+    width: 30%;
+    height: 200px;
+    background: green;
+    float: right;
+}
+#bottom {width: 100%; height: 300px;}
+#orange2 {
+    width: 22.5%;
+    height: 250px;
+    background: orange;
+    margin-left: 270px;
+    float: left;
+}
+#blue {
+    width: 100%;
+    height: 50px;
+    background: blue;
+    float: left;
+}
